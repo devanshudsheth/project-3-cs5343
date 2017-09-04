@@ -1,8 +1,4 @@
 # project-3-cs5343
-   Modify the author's BinarySearchTree code to implement the methods
-   shown below.  
-
-   Each method is 10 points.
 
 
     a) nodeCount
